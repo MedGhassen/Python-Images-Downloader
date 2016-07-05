@@ -1,0 +1,4 @@
+https://www.python.org/static/apple-touch-icon-72x72-precomposed.png
+https://realpython.com/learn/python-first-steps/images/pythonlogo.jpg
+https://cdn.fedoramagazine.org/wp-content/uploads/2015/11/Python_logo.png
+https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/13566988_1194475213938468_2537553040916621630_n.jpg
